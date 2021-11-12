@@ -1,0 +1,27 @@
+{
+  "name": "timer",
+  "version": "1.0.0",
+  "description": "timer en js",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html src/index.html src/**/*.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skraitt/timer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skraitt/timer/issues"
+  },
+  "homepage": "https://github.com/Skraitt/timer#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "typescript": "^4.4.3"
+  },
+  "browserslist": [
+    "last 1 Chrome version"
+  ]
+}
